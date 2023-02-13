@@ -111,7 +111,7 @@ export default function Home() {
             <h2 className={inter.className}>
               Deploy <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
+            <p className="text-3xl font-bold underline">
               Instantly deploy your Next.js site to a shareable URL
               with&nbsp;Vercel.
             </p>
